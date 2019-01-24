@@ -1,0 +1,31 @@
+We have developed below Line of business for Caltrans IMMS 
+
+Incidents
+Service Requests
+Assests
+Inventory
+Resources
+Parts
+Work Management.
+
+We have pulled the information from Infor source to warehouse and we build data model for the line of businees like 
+Incidents, Service Requests, Assests,Inventory,Resources,Parts and Workmanagement.
+
+We have developed various reports for the above line of business like 
+
+Resources      - Daily time report
+                 Employee Over time usage report
+                 Time Comparision report.
+Parts          - Stock report.
+                 Part Usge report.
+Assests        - Bridge Expediture report
+                 Element Invetory
+                 Equipment Usage report.
+ServiceRequests- Service request report.
+Incidents      - Incident Log Status.
+                 Maintenance Cost report.
+Workmanagement - Labors hours and cost details report
+                 Contractor usage
+				 work order details.
+				 
+We also build Realtime reports for Caltrans IMMS to connect directly with database.
